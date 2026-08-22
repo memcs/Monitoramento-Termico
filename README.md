@@ -1,4 +1,4 @@
-# 🌡️ Sistema de Monitoramento Térmico Industrial e Ambiental com ESP32
+# 🌡️ Sistema de Monitoramento Térmico com ESP32
 
 Este repositório contém a documentação, diagrama de circuito e código-fonte para o sistema de monitoramento de temperatura em tempo real com conectividade IoT, alertas visuais locais e sincronização temporal via protocolo NTP.
 
