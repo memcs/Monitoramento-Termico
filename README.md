@@ -54,4 +54,3 @@ O sistema realiza a leitura local, apresenta os dados e horários sincronizados 
    * `DHT sensor library`
 3. Abra o arquivo `.ino` deste repositório, configure seu Wi-Fi (`ssid` e `password`) e insira sua **Write API Key** do ThingSpeak.
 4. Conecte a ESP32 via USB e faça o Upload do programa.
-5.
