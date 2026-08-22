@@ -1,3 +1,8 @@
+// CÓDIGO PRINCIPAL DE MONITORAMENTO TÉRMICO
+// Este arquivo contém a lógica do sistema (leitura do sensor, exibição no LCD,
+// controle do LED de alerta e envio de dados para o ThingSpeak).
+
+
 // BIBLIOTECAS
 // Aqui importamos as bibliotecas necessárias para o projeto.
 
