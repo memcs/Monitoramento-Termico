@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'codigo_monitoramento.ino'
+elf = 'diagram.json'
