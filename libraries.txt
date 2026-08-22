@@ -1,0 +1,9 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ESP32Servo
+DHT sensor library
+WiFi
+Time
+LiquidCrystal I2C
+HttpClient
