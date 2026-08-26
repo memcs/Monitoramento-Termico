@@ -60,3 +60,21 @@ O sistema realiza a leitura local, apresenta os dados e horários sincronizados 
 ### 🔌 Esquema do Circuito
 
 ![Circuito de Monitoramento Térmico](./circuito.png)
+
+---
+
+---
+
+## 🛠️ Implementação Física e Protótipo de Bancada
+
+A simulação e a documentação principal deste repositório foram desenvolvidas no ambiente **Wokwi** utilizando a placa **ESP32** como referência de arquitetura. 
+
+Para a validação prática, o projeto foi adaptado com sucesso para o hardware físico disponível (**ESP8266 / NodeMCU**), mantendo exatamente a mesma lógica de leitura de temperatura, regras de alerta e envio de dados para o ThingSpeak.
+
+### 📸 Fotos da Montagem Real
+
+
+### 📌 Mapeamento de Pinos (ESP8266 Física)
+* **Sensor DHT22:** Pino `D5` (GPIO 14)
+* **LED de Alerta:** Pino `D6` (GPIO 12)
+* **Display LCD I2C:** `SDA` no pino `D2` (GPIO 4) e `SCL` no pino `D1` (GPIO 5)
