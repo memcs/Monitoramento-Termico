@@ -17,8 +17,8 @@
 // CONFIGURAÇÕES DO WI-FI
 // Aqui colocamos o nome e a senha da rede Wi-Fi.
 
-const char* ssid = "Wokwi-GUEST";
-const char* password = "";
+const char* ssid = "SECRET_SSID";
+const char* password = "SECRET_PASS";
 
 
 // CONFIGURAÇÕES DO THINGSPEAK (NUVEM)
