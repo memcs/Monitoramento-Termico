@@ -63,8 +63,6 @@ O sistema realiza a leitura local, apresenta os dados e horários sincronizados 
 
 ---
 
----
-
 ## 🛠️ Implementação Física e Protótipo de Bancada
 
 A simulação e a documentação principal deste repositório foram desenvolvidas no ambiente **Wokwi** utilizando a placa **ESP32** como referência de arquitetura. 
