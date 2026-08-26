@@ -71,8 +71,8 @@ Para a validação prática, o projeto foi adaptado com sucesso para o hardware 
 
 ### 📸 Fotos da Montagem Real
 
-![Montagem Física 1](./circuito_fisico1.jpg)
-![Montagem Física 2](./circuito_fisico2.jpg)
+![Montagem Física 1](./circuito_fisico1.jpeg)
+![Montagem Física 2](./circuito_fisico2.jpeg)
 
 ### 📌 Mapeamento de Pinos (ESP8266 Física)
 * **Sensor DHT22:** Pino `D5` (GPIO 14)
