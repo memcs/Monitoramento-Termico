@@ -7,7 +7,7 @@
 
 // Credenciais seguras de exemplo
 // Substitua pelas suas credenciais reais ao compilar
-#define SECRET_SSID ""NOME_DO_SEU_WIFI"
+#define SECRET_SSID "NOME_DO_SEU_WIFI"
 #define SECRET_PASS "SENHA_DO_SEU_WIFI"
 #define SECRET_THINGSPEAK_KEY "SUA_WRITE_API_KEY_AQUI"
 
