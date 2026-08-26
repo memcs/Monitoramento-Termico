@@ -62,11 +62,11 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 
 // CONFIGURAÇÃO DA DATA E HORA
-// Aqui configuramos o horário obtido pela internet.
+// Aqui configuramos o horário obtido pela internet com ajuste do fuso horário (UTC-3).
 
 const char* ntpServer = "pool.ntp.org";
 
-const long gmtOffset_sec = -3 * 3600;
+const long gmtOffset_sec = -3 * 3600; // Ajuste do fuso horário (-3 horas)
 const int daylightOffset_sec = 0;
 
 
