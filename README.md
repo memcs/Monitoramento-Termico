@@ -78,3 +78,9 @@ Para a validação prática, o projeto foi adaptado com sucesso para o hardware 
 * **Sensor DHT22:** Pino `D5` (GPIO 14)
 * **LED de Alerta:** Pino `D6` (GPIO 12)
 * **Display LCD I2C:** `SDA` no pino `D2` (GPIO 4) e `SCL` no pino `D1` (GPIO 5)
+
+---
+
+## 📄 Documentação e Relatório
+O relatório completo detalhando o desenvolvimento, a arquitetura e os resultados do projeto pode ser acessado no arquivo abaixo:
+* **[Baixar / Visualizar Relatório Técnico (PDF)](./RELATORIO.pdf)**
